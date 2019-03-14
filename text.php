@@ -1,4 +1,5 @@
 <?php
-echo "Hi Text.";
+
+echo "Hi";
 
 ?>
